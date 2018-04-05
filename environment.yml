@@ -3,4 +3,4 @@ name: b2handle-env
 dependencies:
 - python=3.5
 - pip:
-    - b2handle==1.1.0
+    - b2handle==1.1.1
