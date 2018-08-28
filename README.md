@@ -1,4 +1,4 @@
 # Training
 
-[![Binder](https://bit.ly/2Gk17og)
+[![Binder]](https://bit.ly/2Gk17og)
 
